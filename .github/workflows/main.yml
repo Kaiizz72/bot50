@@ -1,4 +1,4 @@
-name: Start HT1 Bots
+name: Start HT2 Bots
 
 on:
   workflow_dispatch:  # để bạn bấm "Run workflow" bằng tay
